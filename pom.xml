@@ -17,7 +17,7 @@
     <junit.version>4.10</junit.version>
     <mockito.version>1.9.5</mockito.version>
     <jcl-over-slf4j.version>1.7.2</jcl-over-slf4j.version>
-    <logback-classic.version>1.2.0</logback-classic.version>
+    <logback-classic.version>1.3.12</logback-classic.version>
     <kommonlee-exception.version>0.0.16-SNAPSHOT</kommonlee-exception.version>
     <kommonlee-test.version>0.0.17-SNAPSHOT</kommonlee-test.version>
     <kommonlee-type.version>0.0.16-SNAPSHOT</kommonlee-type.version>
